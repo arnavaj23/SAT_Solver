@@ -67,13 +67,12 @@ Variable 3 = false
 
 ---
 
-## 👤 Author
+## Author
 
 Arnav | IIT Kanpur
 
 ---
 
-## ⭐️ Inspired By
+## Inspired By
 
 * Jane Street’s use of OCaml
-* Logical thinking and functional programming paradigms
