@@ -69,7 +69,7 @@ Variable 3 = false
 
 ## Author
 
-Arnav | IIT Kanpur
+Arnav Jagtap| IIT Kanpur
 
 ---
 
